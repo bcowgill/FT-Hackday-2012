@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<!--
+   $Id$
+
+   QUnit + QUnitChainer Sample Test plan
+   https://github.com/bcowgill/QUnitChainer
+   http://docs.jquery.com/Qunit
+   http://www.swift-lizard.com/2009/11/24/test-driven-development-with-jquery-qunit/
+   http://net.tutsplus.com/tutorials/javascript-ajax/how-to-test-your-javascript-code-with-qunit/
+   http://twoguysarguing.wordpress.com/2010/11/02/make-javascript-tests-part-of-your-build-qunit-rhino/
+   http://martinfowler.com/articles/nonDeterminism.html
+
+   BDD
+   https://github.com/joshuaclayton/specit
+-->
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <title>FT Content API Test - hunt for images</title>
+    <link rel="stylesheet" href="../css/style.css" type="text/css"/>
+    <link rel="stylesheet" href="../qunit/qunit.css" type="text/css"/>
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <script src="../qunit/qunit.js"></script>
+
+    <script src="../js/jquery-1.7.1.min.js"> </script>
+    <script src="QUnitChainer.js"></script>
+    <script>
+/*jslint browser: true, sloppy: true, white: true, nomen: false, plusplus: false, maxerr: 1000, indent: 3 */
+
+/*properties
+   '-', init, nextTestPlan, ready, unitTests
+*/
+
+/*global Plan, QUnitChainer, jQuery, Motion2D
+*/
+
+var Plan = {
+  // Specify the test plan to run after this one
+  nextTestPlan: '0-control.html',
+  '-': '-'
+};
+QUnitChainer.init(Plan);
+
+     // --- Unittest Code goes here ---
+
+    </script>
+
+    <!-- Object being tested is included here with revision marker to force reload when code is committed -->
+    <script src="../js/data.js?$Rev$"></script>
+    <script src="../js/point2d.js?$Rev$"></script>
+    <script src="../js/motion2d.js?$Rev$"></script>
+    <script src="../js/ft-content-api.js?$Rev$"></script>
+
+    <!-- Unit test plan is in separate javascript -->
+    <script>
+jQuery(document).ready(function () {
+   var world = new FTAPI();
+   world.unitTests();
+});
+    </script>
+
+  </head>
+  <body>
+    <h1 id="qunit-header">FT Content API Test - hunt for images</h1>
+    <h2 id="qunit-banner"></h2>
+    <div id="qunit-testrunner-toolbar"></div>
+    <h2 id="qunit-userAgent"></h2>
+    <ol id="qunit-tests">
+    </ol>
+
+<div id="output"></div>
+
+<div id="universe">
+ <div id="index"></div>
+ <hr>
+ <div id="content"></div>
+</div>
+
+<div id="zoomcontainer"><div id="zoomindicator"></div></div>
+
+    <!--
+       The fixture is any DOM structure you need in place for each test.
+       It won't be visible on screen but the initial state is recorded
+       and restored at the start of each test.
+    -->
+    <div id="qunit-fixture"></div>
+  </body>
+</html>

@@ -1,0 +1,94 @@
+#world {
+   position: relative;
+   width: 640px;
+   height: 480px;
+   background-color: #AAA;
+   overflow: hidden;
+}
+
+#universe {
+   position: relative;
+   width: 1024px;
+   background-color: #AAA;
+}
+
+#output {
+   width: 1024px;
+   border: 1px solid blue;
+   font-family: "Lucida Console", Monaco, monospace;
+   font-size: 8pt;
+}
+
+#zoomcontainer {
+   display: none;
+   position: relative;
+   left: 0px;
+   top: 0px;
+   width: 100px;
+   height: 100px;
+   overflow: hidden;
+   background-color: #AAA;
+}
+
+#zoomindicator {
+   position: absolute;
+   left: 10px;
+   top: 10px;
+   width: 10px;
+   height: 10px;
+   background-color: blue;
+}
+
+#getFromElement {
+   position: absolute;
+   width: 10px;
+   height: 15px;
+   top: 10px;
+   left: 20px;
+   background-color: black;
+}
+
+#saveToElement {
+   position: absolute;
+   width: 32px;
+   height: 47px;
+   top: 36px;
+   left: 79px;
+   background-color: red;
+}
+
+#targetPoint {
+   position: absolute;
+   width: 20px;
+   height: 20px;
+   top: 59px;
+   left: 67px;
+   background-color: green;
+}
+
+#object {
+   position: absolute;
+   width: 20px;
+   height: 20px;
+   top: 83px;
+   left: 156px;
+   background-color: white;
+}
+
+#animated {
+   position: absolute;
+   width: 20px;
+   height: 20px;
+   top: 100px;
+   left: 100px;
+   background-color: yellow;
+}
+
+#falling{
+   position: absolute;
+   width: 20px;
+   height: 20px;
+   top: 50px;
+   left: 50px;
+   background-color: orange;
+}
