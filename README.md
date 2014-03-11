@@ -9,7 +9,11 @@ My entry used the API to grab articles with images and present a screen
 saver like falling display of articles. Don't expect the code to run any
 more as the content api access keys have long changed.
 
-TODO - dig up the video must still be on jing/streamload somewhere.
+Screen shot of idea:
+http://www.screencast.com/t/81gvaAnwN6zd
+
+Video of it in action:
+http://www.screencast.com/t/HUaJZb595lN6
 
 This is just a code sample showing what can be done in a 24ish hour period.
 
