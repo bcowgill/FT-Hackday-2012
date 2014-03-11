@@ -1,0 +1,341 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getGro",
+				"getGroupNodes"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 661,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/d/s/github/QUnitChainer/release/make.sh",
+		"/D/d/s/github/QUnitChainer/sample/test-this-object.js",
+		"/D/d/s/github/QUnitChainer/spec/QUnitChainerSpec.js",
+		"/D/d/s/github/QUnitChainer/_test-passes/test-plan.js",
+		"/D/d/s/github/QUnitChainer/spec/SpecHelper.js",
+		"/D/d/s/github/QUnitChainer/_test-failures/test-plan.js",
+		"/D/d/s/github/QUnitChainer/dist/0-control.html",
+		"/D/d/s/github/QUnitChainer/dist/0-monitor.html",
+		"/D/d/s/github/QUnitChainer/dist/sample/q-test.html",
+		"/D/d/s/github/QUnitChainer/README.md",
+		"/D/d/s/ontology/bin/cfg/check-bcowgill-dt.sh",
+		"/D/d/s/github/QUnitChainer/LICENSE",
+		"/D/d/s/github/QUnitChainer/.npmignore",
+		"/D/d/s/github/QUnitChainer/.gitignore",
+		"/D/d/s/github/QUnitChainer/QUnitChainer.js",
+		"/D/d/s/github/QUnitChainer/qunitchainer.css",
+		"/D/d/s/github/QUnitChainer/qunit/qunit.css",
+		"/D/d/s/github/QUnitChainer/qunit/qunit-style.html",
+		"/D/d/s/github/QUnitChainer/_test_failures/test-plan.js",
+		"/C/Users/me/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/me/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/d/s/ontology/play/d3/WebContent/package.json",
+		"/D/d/s/github/QUnitChainer/dist/qunit.css",
+		"/D/d/s/github/QUnitChainer/0-control.html",
+		"/D/d/s/github/QUnitChainer/0-monitor.html",
+		"/D/d/s/github/QUnitChainer/replace.pl",
+		"/D/d/s/github/QUnitChainer/_test_failures/q-test3.html",
+		"/D/d/s/github/QUnitChainer/_test_passes/q-test3.html",
+		"/D/d/s/github/QUnitChainer/_test_passes/test-plan.js",
+		"/D/d/s/github/QUnitChainer/sample/q-test.html",
+		"/D/d/s/github/QUnitChainer/sample/q-test2.html",
+		"/D/d/s/github/QUnitChainer/sample/q-test3.html",
+		"/D/d/s/github/QUnitChainer/sample/q-test4.html",
+		"/D/d/s/github/QUnitChainer/sample/test-plan.js",
+		"/D/d/s/github/QUnitChainer/Gruntfile.js",
+		"/D/d/s/github/QUnitChainer/jasmine/jasmine-html.js",
+		"/C/Users/me/AppData/Roaming/Sublime Text 2/Packages/Default/Side Bar.sublime-menu",
+		"/C/Users/me/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/me/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/D/d/s/ontology/play/d3/WebContent/dataflow/resources/dagre-d3.js",
+		"/D/d/s/github/BigScreen/pj-BigScreen.sublime-workspace",
+		"/D/d/s/github/BigScreen/js/jquery-ui-1.8.16.custom.min.js",
+		"/D/d/s/github/BigScreen/js/jquery-ui-1.10.4.custom/js/jquery-ui-1.10.4.custom.min.js",
+		"/C/Users/me/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript.sublime-settings"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"++idx",
+			"function",
+			"\"",
+			"Idx++",
+			"idx++",
+			"++idx",
+			"\"",
+			"indent",
+			"2",
+			"QUnitChainer",
+			"jQuery",
+			"\"",
+			"border-radius",
+			"install_npm_global_from",
+			"getendpointnode",
+			"forIdx",
+			"edge",
+			"ExternalEdges",
+			"severedEdges",
+			"forKeys",
+			"forIdx",
+			"getEndpointNode",
+			"getEndpointNod",
+			"assert",
+			"testLog",
+			".error",
+			"idx",
+			"forIdx",
+			"severedEdge",
+			"collapseGroup",
+			"addGroupNode",
+			"addNode",
+			"addGroupNode",
+			"addNode",
+			"outEdges",
+			"function outEdges",
+			"outEdges",
+			"outEdge",
+			"outEdges",
+			"graphlib",
+			"nodesFromList",
+			"nodes",
+			"collapseGroup",
+			"console.clear",
+			"logVar",
+			"renderer",
+			"layout",
+			"clicked",
+			"edges",
+			"nodes",
+			"dagre",
+			"g",
+			"logEvent",
+			"all",
+			"_postLayout",
+			"layout",
+			"run",
+			"render",
+			"node",
+			"rect",
+			"20800731",
+			"FB84C0",
+			"layout",
+			"nodes_d",
+			"layout",
+			"dataflow",
+			"transform",
+			"BSAC",
+			"console.logVar",
+			"logVar",
+			"d3bug.log",
+			"console.",
+			"log",
+			"logVar",
+			"clear",
+			"render",
+			"; g",
+			";",
+			"dagre",
+			"find",
+			"dark",
+			"menu",
+			"tab_label",
+			"color",
+			"dark_content",
+			"color",
+			"clicktozoom",
+			"OP",
+			"URLs",
+			"log",
+			"checkFor",
+			"chooseRandom",
+			"debugging",
+			"Effects",
+			"Effect",
+			"bounce",
+			"TheEffect",
+			"freeze",
+			"console",
+			"fixedEffect",
+			"loadedURL",
+			"setFloatURL"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"idx += 1",
+			"'",
+			"Idx += 1",
+			"idx += 1",
+			"'",
+			"logZoom",
+			"Renderer",
+			"Layout",
+			"Clicked",
+			"svgEdges",
+			"svgNodes",
+			"svgDagre",
+			"DAGRenderer",
+			"Graph",
+			"activeView",
+			"dataflow",
+			"console.logVar",
+			";\\ng",
+			";\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								661,
+								661
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"dagre",
+				"play/d3/WebContent/dagre-d3.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 414.0,
+	"status_bar_visible": true
+}
